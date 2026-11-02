@@ -1,6 +1,10 @@
 History
 =======
 
+Latest
+------
+
+
 0.8.0
 ------
 - DEP: Support Python 3.13+, numpy 2.1+ (pull #205, #190)
